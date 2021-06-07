@@ -19,11 +19,19 @@
    ### Start Jupyter Notebook
    * Windows: Start - Programs - Anaconda3 - Jupyter Notebook (Anaconda3)
    * Mac: Open a terminal - navigate to desired folder - type jupyter notebook - hit enter
-   * Once you do these, the Jupyter server should start and a browser should open with the Jupyter Notebook in the folder where you opened it
+   * Once you do these, the Jupyter server should start and a browser should open with the Jupyter Notebook in the folder where you opened it.
    
    ### Create a new Jupyter Notebook
    * Jupyter Notebook browser page - New - Python 3
    * A new tab should open with a new notebook
    * You can rename the new notebook by clicking on the title and typing a new name in the popup.
+
+   ### Some commands
+   * pwd - (print working directory) Run this command in a cell to see the directory the notebook is saving in.
+   * new cell - The plus (+) icon at the top of the page will create a new cell below the cell currently selected. Also available in the Insert menu.
+   * Ctrl - Enter will run the code in the cell currently selected.
+   * Icons - Hover over icons to see what they do. Try them out.
+   * File - Download as 
+     * Save the notebook in different formats.
   
   
