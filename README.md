@@ -33,5 +33,17 @@
    * Icons - Hover over icons to see what they do. Try them out.
    * File - Download as 
      * Save the notebook in different formats.
+     * .ipynb - Jupyter Notebook file extension
+     * .py - Python file file extension
+   * Menus - try some out.
+   * Cell - Run All
+   * Cell - Cell Type - Makrdown
+     * Allows you to change the cell to text and formatted text using markdown on your notebook page.
+
+  ## Why use Jupyter Notebooks?
+  
+  * When you're working on parts of a script, but you don't want to run the entire script to just try out one part.
+  * When you're doing some kind of analysis and you want to see the output from a block of code directly under the code.
+  * Great for teaching and demonstrations like this.
   
   
