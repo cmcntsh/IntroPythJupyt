@@ -17,13 +17,13 @@
   ## Introduction to Jupyter Notebooks
   
    ### Start Jupyter Notebook
-    * Windows: Start - Programs - Anaconda3 - Jupyter Notebook (Anaconda3)
-    * Mac: Open a terminal - navigate to desired folder - type jupyter notebook - hit enter
-    * Once you do these, the Jupyter server should start and a browser should open with the Jupyter Notebook in the folder where you opened it
-    
-    ### Create a new Jupyter Notebook
-    * Jupyter Notebook browser page - New - Python 3
-    * A new tab should open with a new notebook
-    * You can rename the new notebook by clicking on the title and typing a new name in the popup.
+   * Windows: Start - Programs - Anaconda3 - Jupyter Notebook (Anaconda3)
+   * Mac: Open a terminal - navigate to desired folder - type jupyter notebook - hit enter
+   * Once you do these, the Jupyter server should start and a browser should open with the Jupyter Notebook in the folder where you opened it
+   
+   ### Create a new Jupyter Notebook
+   * Jupyter Notebook browser page - New - Python 3
+   * A new tab should open with a new notebook
+   * You can rename the new notebook by clicking on the title and typing a new name in the popup.
   
   
